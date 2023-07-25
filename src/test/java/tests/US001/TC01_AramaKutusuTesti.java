@@ -19,7 +19,8 @@ public class TC01_AramaKutusuTesti {
         //Amazon sayfasına gidilip arama kutusu test edildi.git
         ///sonradan eklenen kısım
         // yeni eklenen kısım
-        // en son eklenen kısım    
+        // en son eklenen kısım  master da iken pull yapmalisiniz
+        //amazon sayfası
     }
 
 }
