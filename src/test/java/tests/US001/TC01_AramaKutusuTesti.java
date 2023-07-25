@@ -17,6 +17,7 @@ public class TC01_AramaKutusuTesti {
         Driver.closeDriver();
 
         //Amazon sayfasına gidilip arama kutusu test edildi.git
+        ///sonradan eklenen kısım
 
     }
 
